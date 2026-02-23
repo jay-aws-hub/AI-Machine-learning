@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%2FAzure-blue)
+![IaC](https://img.shields.io/badge/IaC-Terraform-purple)
+
 # AI / Machine Learning Experiments
 
 🚧 This repository is currently a work in progress.
