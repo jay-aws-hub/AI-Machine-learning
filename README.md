@@ -4,7 +4,7 @@
 
 # AI / Machine Learning Experiments
 
-🚧 This repository is currently a work in progress.
+This repository is an evolving MLOps sandbox focused on building reproducible, cloud-native ML pipelines.
 
 ## Overview
 
