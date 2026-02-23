@@ -50,3 +50,10 @@ This repository reflects my interest in combining:
 - AI/ML workflows
 
 The focus is on building scalable and reproducible ML systems aligned with production engineering practices.
+
+## Run with Docker
+
+Build the image:
+
+```bash
+docker build -t ml-pipeline .
